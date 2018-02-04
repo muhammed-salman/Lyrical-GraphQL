@@ -7,4 +7,4 @@
 
 - Use npm run dev to start server
 
--You can now visit localhost:4000 to check the app
+- You can now visit localhost:4000 to check the app

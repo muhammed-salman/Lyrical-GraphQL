@@ -3,7 +3,7 @@
 
 - Clone this app on your machine
 
-- Use npm run install
+- Use npm install
 
 - Use npm run dev to start server
 
